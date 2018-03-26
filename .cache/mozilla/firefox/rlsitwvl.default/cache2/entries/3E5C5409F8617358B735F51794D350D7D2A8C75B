@@ -1,0 +1,122 @@
+Ôªøbody,div,address,blockquote,iframe,ul,ol,dl,dt,dd,h1,h2,h3,h4,h5,h6,p,pre,table,caption,th,td,form,legend,fieldset{margin:0;padding:0;font-size:100%;}
+ol,ul{list-style:none;}
+img,iframe,fieldset{border:0;}
+*:focus{outline:0;}
+table{border-collapse:collapse;border-spacing:0;}
+caption,th{text-align:left;}
+body{font:12px/1.5 "Lucida Grande",Helvetica,Arial;}
+input,button,select,textarea{font-size:100%;font-family:inherit;}
+textarea{overflow:auto;}
+a:link,a:visited{color:#333;text-decoration:none;}
+a:hover,a:active{text-decoration:underline;}
+button{overflow:visible;}
+.clearfix{zoom:1;}
+.clearfix:after{content:".";display:block;clear:both;height:0;overflow:hidden;visibility:hidden;}
+body#chinadmd{background:url(http://www.chinadmd.com/img/body-bg.gif) repeat-x 0 0px;}
+.wrapper{width:980px;margin:auto;margin-top:5px;}
+.header{margin-bottom:5px;}
+.header .brand{float:left;display:inline;margin:0 20px 0 15px;}
+.header .brand .logo a{display:block;width:210px;height:90px;overflow:hidden;text-indent:-999px;background:url(http://www.chinadmd.com/img/logo.gif) no-repeat 0 50%;}
+.header .adtext{float:right;margin-left:5px;width:728px;height:90px;border:1px solid #B0D7FF;background:#F2F6FB;overflow:hidden;}
+ 
+.nav{margin-bottom:5px;padding-left:8px;background:url(http://www.chinadmd.com/img/nav.gif) no-repeat;}
+.nav-inner{padding-right:20px;height:35px;background:url(http://www.chinadmd.com/img/nav.gif) no-repeat 100% -200px;}
+.nav-inner .nav-inner{padding:0;background:url(http://www.chinadmd.com/img/nav.gif) repeat-x 0 -100px;}
+.navlist{float:left;font-size:14px;overflow:hidden;}
+.navlist li{float:left;display:inline;margin-left:-2px;padding:0 8px;background:url(http://www.chinadmd.com/img/nav.gif) no-repeat 0 -500px;}
+.navlist a{float:left;padding-right:10px;font-weight:bold;}
+.navlist a span{float:left;height:35px;line-height:38px;padding:0 3px 0 13px;}
+.navlist a:link,.navlist a:visited{color:#fff;text-decoration:none;}
+.navlist a.current:link,.navlist a.current:visited,.navlist a:hover,.navlist a:active{color:#000;background:url(http://www.chinadmd.com/img/nav.gif) no-repeat 100% -400px;cursor:pointer;}
+.navlist a.current span,.navlist a:hover span{background:url(http://www.chinadmd.com/img/nav.gif) no-repeat 0 -300px;}
+.search{float:right;width:227px;height:38px;overflow:hidden;}
+.search .textwrap{float:left;width:180px;height:25px;overflow:hidden;margin:5px 5px 0 0;background:url(http://www.chinadmd.com/img/search.gif) no-repeat;}
+.search .text{width:170px;padding:5px;border:0;color:#999;background:transparent;}
+.search .text:focus{color:#000;}
+.search .button{float:left;width:42px;height:25px;overflow:hidden;margin:5px 0 0 0;border:0;text-indent:-999px;background:url(http://www.chinadmd.com/img/search.gif) no-repeat 0 -50px;cursor:pointer;}
+.banner img{display:inline-block;}
+.banner-leaderboard,.banner-halfbanner{margin-bottom:5px;text-align:center;}
+ 
+.layout-detail-cols2 .col1{width:672px;}
+.layout-detail-cols2 .col2{width:300px;margin-right:0;}
+.panel{margin-bottom:5px;}
+.panel-head .title{float:left;font-size:14px;}
+.panel-head .panel-head .result-title{color:#333;font-weight:normal;}
+.panel-box-red .panel-head,.panel-box-green .panel-head,.panel-box-gray .panel-head{padding-right:10px;background:url(http://www.chinadmd.com/img/panel_bg.gif) no-repeat 100% -30px;}
+.panel-box-red .panel-head .inner,.panel-box-green .panel-head .inner,.panel-box-gray .panel-head .inner{height:30px;padding-left:15px;background:url(http://www.chinadmd.com/img/panel_bg.gif) no-repeat;}
+.panel-box-red .panel-body,.panel-box-green .panel-body,.panel-box-gray .panel-body{min-height:50px;padding:0 15px;background:#fff url(http://www.chinadmd.com/img/p_gradient_red.gif) repeat-x 0 100%;border:solid #fec799;border-width:0 1px;}
+.panel-box-red .panel-foot{background-position:100% -70px;}
+.panel-box-red .panel-foot div{background-position:0 -60px;}
+.panel-box-green .panel-head{background-position:100% -110px;}
+.panel-box-green .panel-head .inner{background-position:0 -80px;}
+.panel-box-green .panel-body{border-color:#98d569;background-image:url(http://www.chinadmd.com/img/p_gradient_green.gif);}
+.panel-box-green .panel-foot{background-position:100% -150px;}
+.panel-box-green .panel-foot div{background-position:0 -140px;}
+.panel-box-gray .panel-head{background-position:100% -200px;}
+.panel-box-gray .panel-head .inner{height:40px;line-height:40px;background-position:0 -160px;}
+.panel-box-gray .panel-head .title{color:#000;}
+.panel-box-gray .panel-head .ld{ display:block; float:left}
+.panel-box-gray .panel-head div.ld_ac{ float:right; margin-top:7px}
+.panel-box-gray .panel-head div.ld_ac a{font-weight:bold; display:block; float:left; background:url(http://www.chinadmd.com/img/c2.gif) repeat-x; height:25px; line-height:27px;+line-height:27px;_line-height:25px; border:1px solid #dfdfdf; border-left:none; padding:0 5px; color:#34991c}
+.panel-box-gray .panel-head div.ld_ac a:hover{ text-decoration:none; color:#333 }
+.panel-box-gray .panel-head div.ld_ac a.orgin{ background:url(http://www.chinadmd.com/img/c1.jpg) repeat-x; border:1px solid #c95d00; color:#FFFFFF}
+.panel-box-gray .panel-head div.ld_ac a.orgin:hover{ color:#fff}
+.panel-box-gray .panel-body{border-color:#dcdcdc;background-image:url(http://www.chinadmd.com/img/p_gradient_gray.gif);}
+.panel-box-gray .panel-body .sorry{color:#c00;}
+.panel-box-gray .panel-foot{background-position:100% -250px;}
+.panel-box-gray .panel-foot div{background-position:0 -240px;}
+ 
+.tofu-item{padding:10px 0 10px 140px;margin:-1px 0 0;border-top:1px dashed #dcdcdc;}
+.tofu-item-left{padding:10px 0 10px 0px;margin:-1px 0 0;border-top:1px dashed #dcdcdc;}
+.item-odd{background:#fafafa;}
+.tofu-item .image{float:left;display:inline;margin-left:-132px;overflow:hidden;max-height:128px;padding:2px;border:1px solid #dcdcdc;}
+* html .tofu-item .image{height:128px;}
+.tofu-item .image img{width:110px;}
+.tofu-item .name{font-size:14px;margin-bottom:10px;margin-top:5px;overflow:hidden;zoom:1;}
+.tofu-item .name a:link,.tofu-item .name a:visited{color:#0000FF;}
+.tofu-item .name .url{float:left;max-width:350px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+.tofu-item .name .she{float:left;max-width:1000px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+* html .tofu-item .name .url{width:350px;}
+.tofu-item .info{color:#666;margin-bottom:5px;word-spacing:5px;}
+.tofu-item .info em{font-style:normal;color:#c00;}
+.tofu-item .info span{margin-right:15px;}
+.panel-foot{padding-right:10px;background:url(http://www.chinadmd.com/img/panel_bg.gif) no-repeat 100% -70px;}
+.panel-foot div{height:5px;overflow:hidden;background:url(http://www.chinadmd.com/img/panel_bg.gif) no-repeat 0 -60px;}
+.center{float:center;text-align:center;margin-bottom:5px;margin-top:5px;}
+.pagination{float:center;text-align:center;margin:0 -15px;padding:10px 15px 7px;border-top:1px solid #dcdcdc;line-height:20px;}
+.pagination a{display:inline-block;padding:2px 8px;border:1px solid #dcdcdc;background:#fff;vertical-align:middle;}
+.col1,.col2,.col3,.col4,.col5{float:left;margin-right:8px;}
+ 
+.panel-aside-red .panel-head,.panel-aside-green .panel-head{padding-left:8px;background:url(http://www.chinadmd.com/img/panel_aside.gif) no-repeat 0 -80px;}
+.panel-aside-green .panel-head{background-position:0 0;}
+.panel-aside-red .panel-head .inner,.panel-aside-green .panel-head .inner{height:37px;line-height:37px;padding-right:8px;background:url(http://www.chinadmd.com/img/panel_aside.gif) no-repeat 100% -120px;}
+.panel-aside-green .panel-head .inner{background-position:100% -40px;}
+.panel-aside-red .panel-head .title{color:#c00;}
+.panel-aside-green .panel-head .title{color:#34991c;}
+.panel-aside-red .panel-body,.panel-aside-green .panel-body{padding:8px 8px 0;border:solid #ffd7ab;border-width:0 1px;background:#fff url(http://www.chinadmd.com/img/p_gradient_red.gif) repeat-x 0 100%;}
+.panel-aside-green .panel-body{border-color:#5fbb29;background-image:url(http://www.chinadmd.com/img/p_gradient_green.gif);}
+.panel-aside-green .panel-foot{background-position:100% -150px;}
+.panel-aside-green .panel-foot div{background-position:0 -140px;}
+.toprank{width:100%;overflow:hidden;}
+.toprank li{clear:both;height:18px;line-height:18px;margin-bottom:4px;padding-left:5px;overflow:hidden;}
+.toprank li{*margin-bottom:2px;}
+.toprank a{float:left;width:270px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+.footer{color:#666;text-align:center;margin-top:10px;padding-top:20px;border-top:1px solid #E6E6E6;}
+.footer p{margin-bottom:10px;}
+.footer .footer-nav{color:#999;}
+.footer .footer-nav a:link,.footer .footer-nav a:visited{padding:0 3px;color:#36c;}Ó9)ó"m      Z∏óÒZ∏óı>‚¿Z¡“]   $    :http://www.chinadmd.com/css/css.css necko:classified 1 strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
+Content-Length: 8765
+Content-Type: text/css
+Last-Modified: Sat, 06 May 2017 20:38:28 GMT
+Accept-Ranges: bytes
+Etag: "70b291b7a8c6d21:28ff"
+Server: Microsoft-IIS/6.0
+Date: Mon, 26 Mar 2018 06:49:05 GMT
+ original-response-headers Content-Length: 8765
+Content-Type: text/css
+Last-Modified: Sat, 06 May 2017 20:38:28 GMT
+Accept-Ranges: bytes
+Etag: "70b291b7a8c6d21:28ff"
+Server: Microsoft-IIS/6.0
+Date: Mon, 26 Mar 2018 06:49:05 GMT
+ uncompressed-len 0 net-response-time-onstart 3510 net-response-time-onstop 3640   "=

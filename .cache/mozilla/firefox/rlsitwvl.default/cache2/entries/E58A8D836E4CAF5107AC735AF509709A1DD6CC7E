@@ -1,0 +1,298 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>ubuntu有几个软件包无法下载_中华文本库</title>
+<meta name="applicable-device" content="pc"/>
+<meta name="mobile-agent" content="format=html5; url=http://m.chinadmd.com/theme/K9NU7jf592HfVu8PD8V676sM7Ue796E56Nj6269648lL657LKL83H4J0vF8/">
+<meta name="mobile-agent" content="format=xhtml; url=http://m.chinadmd.com/theme/K9NU7jf592HfVu8PD8V676sM7Ue796E56Nj6269648lL657LKL83H4J0vF8/">
+<link rel="alternate" type="application/vnd.wap.xhtml+xml" media="handheld" href="http://m.chinadmd.com/theme/K9NU7jf592HfVu8PD8V676sM7Ue796E56Nj6269648lL657LKL83H4J0vF8/" />
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+<meta http-equiv="x-dns-prefetch-control" content="on">
+<link rel="dns-prefetch" href="http://www.chinadmd.com"/>
+<link rel="dns-prefetch" href="http://image.chinawenben.com"/>
+<link href="http://www.chinadmd.com/css/css.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+(function(){var ua=navigator.userAgent.toLowerCase(),iphone=(ua.match(/iphone/i)=="iphone"),android=(ua.match(/android/i)=="android"),loc=window.location;if(loc.search.indexOf("s=noRedirect")==-1&&(iphone||android)){loc.href="http://m.chinadmd.com/theme/K9NU7jf592HfVu8PD8V676sM7Ue796E56Nj6269648lL657LKL83H4J0vF8/"}})();document.domain="chinadmd.com"
+</script>
+<script type="text/javascript">
+function chinadmd(a){"p000"==a&&document.writeln("<script type='text/javascript' src='https://s5.cnzz.com/z_stat.php?id=3172776&web_id=3172776'>\x3c/script>");"p001"==a&&document.writeln("<script type='text/javascript' src='http://www.chinadmd.com/js/p/js/001.js'>\x3c/script>");"p002"==a&&(document.writeln("<script>"),document.writeln("     var mediav_ad_pub = 'vZE4WT_1433978';"),document.writeln("     var mediav_ad_width = '640';"),document.writeln("     var mediav_ad_height = '90';"),document.writeln("\x3c/script>"),
+document.writeln("<script type='text/javascript' language='javascript' charset='utf-8'  src='//static.mediav.com/js/mvf_g2.js'>\x3c/script>"));"p003"==a&&(document.writeln('<script type="text/javascript">'),document.writeln('     document.write(\'<a style="display:none!important" id="tanx-a-mm_13879175_3211415_10933089"></a>\');'),document.writeln('     tanx_s = document.createElement("script");'),document.writeln('     tanx_s.type = "text/javascript";'),document.writeln('     tanx_s.charset = "gbk";'),
+document.writeln('     tanx_s.id = "tanx-s-mm_13879175_3211415_10933089";'),document.writeln("     tanx_s.async = true;"),document.writeln('     tanx_s.src = "http://p.tanx.com/ex?i=mm_13879175_3211415_10933089";'),document.writeln('     tanx_h = document.getElementsByTagName("head")[0];'),document.writeln("     if(tanx_h)tanx_h.insertBefore(tanx_s,tanx_h.firstChild);"),document.writeln("\x3c/script>"));"p004"==a&&(document.writeln('<script type="text/javascript">'),document.writeln('     document.write(\'<a style="display:none!important" id="tanx-a-mm_13879175_3211415_14512745"></a>\');'),
+document.writeln('     tanx_s = document.createElement("script");'),document.writeln('     tanx_s.type = "text/javascript";'),document.writeln('     tanx_s.charset = "gbk";'),document.writeln('     tanx_s.id = "tanx-s-mm_13879175_3211415_14512745";'),document.writeln("     tanx_s.async = true;"),document.writeln('     tanx_s.src = "http://p.tanx.com/ex?i=mm_13879175_3211415_14512745";'),document.writeln('     tanx_h = document.getElementsByTagName("head")[0];'),document.writeln("     if(tanx_h)tanx_h.insertBefore(tanx_s,tanx_h.firstChild);"),
+document.writeln("\x3c/script>"));"p005"==a&&(document.writeln('<script type="text/javascript">'),document.writeln('     document.write(\'<a style="display:none!important" id="tanx-a-mm_13879175_3211415_14442475"></a>\');'),document.writeln('     tanx_s = document.createElement("script");'),document.writeln('     tanx_s.type = "text/javascript";'),document.writeln('     tanx_s.charset = "gbk";'),document.writeln('     tanx_s.id = "tanx-s-mm_13879175_3211415_14442475";'),document.writeln("     tanx_s.async = true;"),
+document.writeln('     tanx_s.src = "http://p.tanx.com/ex?i=mm_13879175_3211415_14442475";'),document.writeln('     tanx_h = document.getElementsByTagName("head")[0];'),document.writeln("     if(tanx_h)tanx_h.insertBefore(tanx_s,tanx_h.firstChild);"),document.writeln("\x3c/script>"))};
+</script>
+</head>
+<body id="chinadmd">
+<div class="wrapper">
+<div class="clearfix header">
+<div class="brand">
+<div class="logo">
+<a href="http://www.chinadmd.com">中华文本库</a>
+</div>
+</div>
+<div class="adtext">
+<script type="text/javascript">chinadmd("p001");</script>
+</div>
+</div>
+<div class="nav"><div class="nav-inner"><div class="clearfix nav-inner">
+<ul class="navlist">
+<li><a class="current" href="/"><span>文库首页</span></a></li>
+<li><a href="/jiaoxue/"><span>教学文本</span></a></li>
+<li><a href="/falv/"><span>法律文本</span></a></li>
+<li><a href="/yiyao/"><span>医药文本</span></a></li>
+<li><a href="/bangong/"><span>办公文本</span></a></li>
+<li><a href="/keji/"><span>科技文本</span></a></li>
+<li><a href="/kaoshi/"><span>考试文本</span></a></li>
+</ul>
+<div class="search">
+<form name="searchform" method="get" action="/search.do">
+<span class="textwrap">
+<input name="nkey" type="text" id="key" onFocus="this.value='';this.style.color='#000';" class="text" value="请输入文本关键词" />
+</span>
+<input type="submit" class="button" value="搜索" />
+</form>
+</div>
+</div></div></div>
+<div class="banner banner-leaderboard">
+</div>
+<div class="clearfix layout-detail-cols2 cols2">
+<div class="col1">
+<div class="panel panel-box-gray">
+<div class="panel-head"><div class="inner">
+<div class="title result-title"><strong>ubuntu有几个软件包无法下载</strong></div>
+</div></div>
+<div class="panel-body">
+<div class="clearfix tofu-item">
+<span  class="image"><a href="/file/wsuttxwwsxixcpxswrstp6oiwswps6exa6xotxru_1.html" target="_blank"><img src="http://image.chinawenben.com/upload_01/wsuttxwwsxixcpxswrstp6oiwswps6exa6xotxru.jpg" onerror="this.src='http://www.chinadmd.com/img/error108.gif'" /></a></span>
+<h2 class="name"><a href="/file/wsuttxwwsxixcpxswrstp6oiwswps6exa6xotxru_1.html" target="_blank">
+UBUNTU安装软件的三种方法
+</a></h2>
+<p class="dec">
+ubuntu 制作本地源 dpkg 安装 deb 包 Ubuntu 软件包格式为 deb,安装方法如下: sudo dpkg -i package.deb dpkg 的详细使用方法,网上有很多,下面简单列了几个:...
+</p>
+</div>
+
+<div class="clearfix tofu-item">
+<span  class="image"><a href="/file/s3utirv3itzeeiweciuzezo6_1.html" target="_blank"><img src="http://image.chinawenben.com/upload_01/s3utirv3itzeeiweciuzezo6.jpg" onerror="this.src='http://www.chinadmd.com/img/error108.gif'" /></a></span>
+<h2 class="name"><a href="/file/s3utirv3itzeeiweciuzezo6_1.html" target="_blank">
+Ubuntu 安装软件方法(_deb,_sh,_bin,_tar, _tar_gz, _t...
+</a></h2>
+<p class="dec">
+用户时常有这样的问题,我要安装新软件怎么办?.exe文件在哪里,怎么软件有这么多...这些文件包都被存放在Ubuntu的服务器上供下载和升级.新立得 相当于一个升级版...
+</p>
+</div>
+
+<div class="clearfix tofu-item">
+<span  class="image"><a href="/file/vu3vuwoxx3oi6z3iu6cxeti6_1.html" target="_blank"><img src="http://image.chinawenben.com/upload_01/vu3vuwoxx3oi6z3iu6cxeti6.jpg" onerror="this.src='http://www.chinadmd.com/img/error108.gif'" /></a></span>
+<h2 class="name"><a href="/file/vu3vuwoxx3oi6z3iu6cxeti6_1.html" target="_blank">
+Ubuntu安装NS2中出现问题
+</a></h2>
+<p class="dec">
+Ubuntu 安装 NS2 中出现问题 .在新立得软件包管理器中下载最新的 NS2.34,...问题七:安装成功后运行样例程序发现 ns 模拟没有问题就是不能自动调用 nam! ...
+</p>
+</div>
+
+<div class="clearfix tofu-item">
+<span  class="image"><a href="/file/3uzpiiieusixpwovirzewtzs_1.html" target="_blank"><img src="http://image.chinawenben.com/upload_01/3uzpiiieusixpwovirzewtzs.jpg" onerror="this.src='http://www.chinadmd.com/img/error108.gif'" /></a></span>
+<h2 class="name"><a href="/file/3uzpiiieusixpwovirzewtzs_1.html" target="_blank">
+ubuntu软件安装卸载删除
+</a></h2>
+<p class="dec">
+暂无评价|0人阅读|0次下载|举报文档ubuntu软件安装卸载删除_专业资料。由于图形化...o o o h 软件包被强制保持,因为有其它软件包依赖需求,无法升级. r 软件包...
+</p>
+</div>
+
+<div class="clearfix tofu-item">
+<span  class="image"><a href="/file/stevp3oct6iwsoxsr3trvoev_1.html" target="_blank"><img src="http://image.chinawenben.com/upload_01/stevp3oct6iwsoxsr3trvoev.jpg" onerror="this.src='http://www.chinadmd.com/img/error108.gif'" /></a></span>
+<h2 class="name"><a href="/file/stevp3oct6iwsoxsr3trvoev_1.html" target="_blank">
+ubuntu安装run类型的安装包
+</a></h2>
+<p class="dec">
+ubuntu安装run类型的安装包_计算机软件及应用_IT/计算机_专业资料。最近在 Ubuntu13.04下安装 Qt5.1时遇到的小问题,在网上下载的安装文件 是.run 后缀的文件,在...
+</p>
+</div>
+
+<div class="clearfix tofu-item">
+<span  class="image"><a href="/file/6etvcitewzxusiacus3pesw3_1.html" target="_blank"><img src="http://image.chinawenben.com/upload_01/6etvcitewzxusiacus3pesw3.jpg" onerror="this.src='http://www.chinadmd.com/img/error108.gif'" /></a></span>
+<h2 class="name"><a href="/file/6etvcitewzxusiacus3pesw3_1.html" target="_blank">
+Linux下Deb包的安装方法及错误解救
+</a></h2>
+<p class="dec">
+Ubuntu 下安装 DEB 包时出现错误的解救方法在 Ubuntu 下安装 flashplayer 的浏览器插件,采用 dpkg -i 的方法来安装,可能是因为文件依 赖有问题,没有安装成功。...
+</p>
+</div>
+
+<div class="clearfix tofu-item">
+<span  class="image"><a href="/file/prpoesr663esu33xriaopaze_1.html" target="_blank"><img src="http://image.chinawenben.com/upload_01/prpoesr663esu33xriaopaze.jpg" onerror="this.src='http://www.chinadmd.com/img/error108.gif'" /></a></span>
+<h2 class="name"><a href="/file/prpoesr663esu33xriaopaze_1.html" target="_blank">
+ubuntu怎么安装tar.gz
+</a></h2>
+<p class="dec">
+有的这些文件包都被存放在 Ubuntu 的服务器上供下载和升级.新立得 相当于一个...* 如果你在非官方源都无法找到该文件包,你还可以手动安装.但是记住,在 Linux ...
+</p>
+</div>
+
+<div class="clearfix tofu-item">
+<span  class="image"><a href="/file/au6zxwxciosiec6vsuwr33cv_1.html" target="_blank"><img src="http://image.chinawenben.com/upload_01/au6zxwxciosiec6vsuwr33cv.jpg" onerror="this.src='http://www.chinadmd.com/img/error108.gif'" /></a></span>
+<h2 class="name"><a href="/file/au6zxwxciosiec6vsuwr33cv_1.html" target="_blank">
+Ubuntu_下的一些软件安装_常用软件的apt-get安装
+</a></h2>
+<p class="dec">
+Ubuntu_下的一些软件安装_常用软件的apt-get安装_IT...几个下载/bt/电驴 工具 sudo apt-get install ...安装 rar 支持,装了以后,压缩包管理器就 可以支持...
+</p>
+</div>
+
+<div class="clearfix tofu-item">
+<span  class="image"><a href="/file/63333soiuz6x6iiw36vutrto_1.html" target="_blank"><img src="http://image.chinawenben.com/upload_01/63333soiuz6x6iiw36vutrto.jpg" onerror="this.src='http://www.chinadmd.com/img/error108.gif'" /></a></span>
+<h2 class="name"><a href="/file/63333soiuz6x6iiw36vutrto_1.html" target="_blank">
+ubuntu 装机必备软件(含安装方法)
+</a></h2>
+<p class="dec">
+//ubuntu-tweak.com/ ),下载对应的 deb 包安装。...不断地增强 Ubuntu 软件中心的功能与体验, 不可...个即可,重覆安装两个都能正常工作,但貌 似没有...
+</p>
+</div>
+
+<div class="clearfix tofu-item">
+<span  class="image"><a href="/file/ov6xzoiu3voouvi3vesp3ra3_1.html" target="_blank"><img src="http://image.chinawenben.com/upload_01/ov6xzoiu3voouvi3vesp3ra3.jpg" onerror="this.src='http://www.chinadmd.com/img/error108.gif'" /></a></span>
+<h2 class="name"><a href="/file/ov6xzoiu3voouvi3vesp3ra3_1.html" target="_blank">
+Ubuntu16.04环境上安装常用软件的方法_图文
+</a></h2>
+<p class="dec">
+最后发现不能在 ubuntu-64 环境中安装 beta 的安 装包,重新下载 Alpha 包 ?...(这个地方不太明白为什么要创建一个软 链接,可能是和下面设置环境变量有关系) ...
+</p>
+</div>
+
+
+
+
+
+<div class="clearfix tofu-item-left">
+<script type="text/javascript">chinadmd("p002");</script>
+</div>
+<div class="pagination">
+<strong>1</strong>
+<a href="/theme/K9NU7jf592HfVu8PD8V676sM7Ue796E56Nj6269648lL657LKL83H4J0vF8/1.html">2</a>
+<a href="/theme/K9NU7jf592HfVu8PD8V676sM7Ue796E56Nj6269648lL657LKL83H4J0vF8/2.html">3</a>
+<a href="/theme/K9NU7jf592HfVu8PD8V676sM7Ue796E56Nj6269648lL657LKL83H4J0vF8/3.html">4</a>
+<a href="/theme/K9NU7jf592HfVu8PD8V676sM7Ue796E56Nj6269648lL657LKL83H4J0vF8/4.html">5</a>
+<a href="/theme/K9NU7jf592HfVu8PD8V676sM7Ue796E56Nj6269648lL657LKL83H4J0vF8/5.html">6</a>
+<a href="/theme/K9NU7jf592HfVu8PD8V676sM7Ue796E56Nj6269648lL657LKL83H4J0vF8/6.html">7</a>
+<a href="/theme/K9NU7jf592HfVu8PD8V676sM7Ue796E56Nj6269648lL657LKL83H4J0vF8/7.html">8</a>
+<a href="/theme/K9NU7jf592HfVu8PD8V676sM7Ue796E56Nj6269648lL657LKL83H4J0vF8/8.html">9</a>
+<a href="/theme/K9NU7jf592HfVu8PD8V676sM7Ue796E56Nj6269648lL657LKL83H4J0vF8/9.html">10</a>
+<a href="/theme/K9NU7jf592HfVu8PD8V676sM7Ue796E56Nj6269648lL657LKL83H4J0vF8/1.html">下一页&gt;</a>
+<a href="/theme/K9NU7jf592HfVu8PD8V676sM7Ue796E56Nj6269648lL657LKL83H4J0vF8/75.html">尾页</a>
+</div>
+</div>
+<div class="panel-foot"><div>
+</div></div>
+</div></div>
+<div class="col2">
+<div class="panel panel-aside-green">
+<div class="panel-head"><div class="inner">
+<h3 class="title">最新文本</h3>
+</div></div>
+<div class="panel-body">
+<ul class="toprank">
+
+<li><a href="/file/wuxvpevsxtezprc3pc3avxvtuxo33pp3wpopzipw_1.html" target="_blank">英语二历年真题及答案(2005-2015)</a></li>
+
+<li><a href="/file/tiosixvoirpruwrurcaiep3reicvpt6izswrauzi_1.html" target="_blank">TV团购方案</a></li>
+
+<li><a href="/file/pw66e6p63zripss3spcsx6za_1.html" target="_blank">长安大学工程机械学院导师</a></li>
+
+<li><a href="/file/tcviarpur3eweszpzeowutsz_1.html" target="_blank">项目管理人员到位承诺</a></li>
+
+<li><a href="/file/x6sr6wpctzwtuu3ocwcvcav6_1.html" target="_blank">消防器材的配置标准</a></li>
+
+<li><a href="/file/wa3ooiaoeoteiouuepzvpxto_1.html" target="_blank">北京师范大学自主招生个人陈述自荐信优秀范文</a></li>
+
+<li><a href="/file/uvo6veua3as6usre3a3wivor_1.html" target="_blank">竣工图章的审核人编制人写谁？竣工图编制内容有哪些？</a></li>
+
+<li><a href="/file/sve3cx6tp3eczt666zp6asso_1.html" target="_blank">情绪ABC理论的合理情绪疗法及案例分析</a></li>
+
+<li><a href="/file/uapvp6rc6u6wasxuoz3z3acr_1.html" target="_blank">中职学校提高车工一体化课堂教学效果的探讨与研究</a></li>
+
+<li><a href="/file/uur6ete6stwxzuuzvaaspcxr_1.html" target="_blank">柴油发动机结构原理史上最强版本</a></li>
+
+</ul>
+</div>
+<div class="panel-foot"><div></div>
+</div></div>
+<div class="banner banner-halfbanner">
+<script type="text/javascript">chinadmd("p003");</script>
+</div>
+<div class="panel panel-aside-green">
+<div class="panel-head"><div class="inner">
+<h3 class="title">相关主题</h3>
+</div></div>
+<div class="panel-body">
+<ul class="toprank">
+
+<li><a href="/theme/8987X0Y4S6158d8U79f68p59M0P9658dNS95jRX9F5b9S82/">ubuntu无法定位软件包</a></li>
+
+<li><a href="/theme/9LKH48GX6Y6o2JW0WvU0HY156/">ubuntu 软件包</a></li>
+
+<li><a href="/theme/8j787hfEOd8toQ0O8cJ8jU4AgO91X7L1/">ubuntu查看软件包</a></li>
+
+<li><a href="/theme/Xw60PML963S7572H4BBy73790W7mNX84cBB826I7/">ubuntu文件夹有个锁</a></li>
+
+<li><a href="/theme/A8O7N595I60xs9KHF56OLN5Em70U87O560RX9F5b9S82/">ubuntu离线安装软件包</a></li>
+
+<li><a href="/theme/74J4P4WPTsA858795cH8o5268569kNX84cBB826I7/">ubuntu未发现软件包</a></li>
+
+<li><a href="/theme/2Nb7P6U7569795g4O9R6D6kJCBA6M2/">ubuntu官网下载</a></li>
+
+<li><a href="/theme/ikv4P2PoJY5H715U83nI0lR656W980c83KP79570/">软件包有一个问题</a></li>
+
+<li><a href="/theme/m3Z62XmQf98LM4P0M09EAq5CBD682JNkRN2/">ubuntu 无法下载 404</a></li>
+
+<li><a href="/theme/8Bo9nY4L0U79B5go937k7g483YF6DtY5jRX9F5b9S82/">ubuntu有一个磁盘挂载</a></li>
+
+<li><a href="/theme/979QZ53XYKX96978c0963PkJCBA6M2/">ubuntu镜像下载</a></li>
+
+<li><a href="/theme/d3Bhpm53VbY560Od62PkJCBA6M2/">ubuntu无法上网</a></li>
+
+<li><a href="/theme/zK8wK485vE8Y560Od62PkJCBA6M2/">ubuntu无法关机</a></li>
+
+<li><a href="/theme/7Ip7953J5cE8Y560Od62PkJCBA6M2/">ubuntu无法启动</a></li>
+
+<li><a href="/theme/L6n9B6q54VbY560Od62PkJCBA6M2/">ubuntu无法安装</a></li>
+</ul>
+</div>
+<div class="panel-foot"><div></div>
+</div></div>
+<div class="banner banner-halfbanner">
+<script type="text/javascript">chinadmd("p004");</script>
+</div>
+</div>
+</div>
+<script type="text/javascript">chinadmd("p005");</script>
+<div class="footer">
+<p class="footer-nav">
+<a href="/about/" target="_blank">关于我们</a> |
+<a href="/lianxi/" target="_blank">联系我们</a> |
+<a href="/shengming/" target="_blank">免责声明</a> |
+<a href="/ziyuantijiao/" target="_blank">资源提交</a>
+</p>
+<p>&copy; 2018 <a href="http://www.chinadmd.com">中华文本库</a> Chinadmd.Com , All Rights Reserved <script type="text/javascript">chinadmd("p000");</script></p>
+</div>
+</div>
+</body>
+</html>sЎ�s           Z��>��       [    :http://www.chinadmd.com/theme/K9NU7jf592HfVu8PD8V676sM7Ue796E56Nj6269648lL657LKL83H4J0vF8/ strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
+Date: Mon, 26 Mar 2018 06:49:02 GMT
+Server: Microsoft-IIS/6.0
+Accept-Ranges: bytes
+Content-Length: 17805
+Content-Type: text/html
+ original-response-headers Connection: close
+Date: Mon, 26 Mar 2018 06:49:02 GMT
+Server: Microsoft-IIS/6.0
+Accept-Ranges: bytes
+Content-Length: 17805
+Content-Type: text/html
+ uncompressed-len 0 predictor::resource-count 45 predictor::http://www.chinadmd.com/css/css.css 1,1,0,4097 predictor::http://image.chinawenben.com/upload_01/wsuttxwwsxixcpxswrstp6oiwswps6exa6xotxru.jpg 1,1,0,4097 predictor::http://image.chinawenben.com/upload_01/s3utirv3itzeeiweciuzezo6.jpg 1,1,0,4097 predictor::http://image.chinawenben.com/upload_01/vu3vuwoxx3oi6z3iu6cxeti6.jpg 1,1,0,4097 predictor::http://image.chinawenben.com/upload_01/3uzpiiieusixpwovirzewtzs.jpg 1,1,0,4097 predictor::http://image.chinawenben.com/upload_01/stevp3oct6iwsoxsr3trvoev.jpg 1,1,0,4097 predictor::http://image.chinawenben.com/upload_01/6etvcitewzxusiacus3pesw3.jpg 1,1,0,4097 predictor::http://image.chinawenben.com/upload_01/prpoesr663esu33xriaopaze.jpg 1,1,0,4097 predictor::http://image.chinawenben.com/upload_01/au6zxwxciosiec6vsuwr33cv.jpg 1,1,0,4097 predictor::http://image.chinawenben.com/upload_01/63333soiuz6x6iiw36vutrto.jpg 1,1,0,4097 predictor::http://image.chinawenben.com/upload_01/ov6xzoiu3voouvi3vesp3ra3.jpg 1,1,0,4097 net-response-time-onstart 8282 net-response-time-onstop 8906 predictor::http://www.chinadmd.com/img/body-bg.gif 1,1,0,4096 predictor::http://www.chinadmd.com/js/p/js/001.js 1,1,0,4097 predictor::http://www.chinadmd.com/img/logo.gif 1,1,0,4096 predictor::http://static.mediav.com/js/mvf_g2.js 1,0,0,4097 predictor::http://material.mediav.com/bjjs/dsp/ad.png 1,1,0,4097 predictor::http://material.mediav.com/bjjs/dsp/360ad.png 1,1,0,4097 predictor::http://p.tanx.com/ex?i=mm_13879175_3211415_10933089 1,1,0,4097 predictor::http://p.tanx.com/ex?i=mm_13879175_3211415_14512745 1,1,0,4097 predictor::http://p.tanx.com/ex?i=mm_13879175_3211415_14442475 1,1,0,4097 predictor::https://s5.cnzz.com/z_stat.php?id=3172776&web_id=3172776 1,1,0,4097 predictor::http://atanx.alicdn.com/t/tanxssp.js?_v=12 1,0,0,4097 predictor::https://c.cnzz.com/core.php?web_id=3172776&t=z 1,1,0,4097 predictor::http://www.chinadmd.com/img/nav.gif 1,1,0,4096 predictor::http://www.chinadmd.com/img/search.gif 1,1,0,4096 predictor::http://www.chinadmd.com/img/panel_bg.gif 1,1,0,4096 predictor::http://www.chinadmd.com/img/p_gradient_gray.gif 1,1,0,4096 predictor::http://www.chinadmd.com/img/panel_aside.gif 1,1,0,4096 predictor::http://www.chinadmd.com/img/p_gradient_green.gif 1,1,0,4096 predictor::http://df.tanx.com/spf3?e=H7kM6m_ZAahUNFg9tEUA40Pd6CLxhjcnXF0MvynxE-Z3HAVERZdl6NYVzLK2tjfFyxHZDPndvrI0MN10hm8OJe2OmoxPiofhIsG0TeW7jRuZk-qY0Oc8q2nJzqINnSKFtrZRJCGeeCcq4AXRZ4zAOH688IPRgQGLkW-PPVXM8RTkQLuGeSJnhg&k=183&i=mm_13879175_3211415_10933089 1,1,0,4097 predictor::https://atanx.alicdn.com/t/tanxssp/probe.js 1,1,0,4097 predictor::http://df.tanx.com/spf3?e=qk-h0LC9y_cZdezx6pD6mWDULzrMHTjitCLp3gxLt6j4ZiM4WT9H9e-TEzde2NayOL7SdgMEU2DIaTxM_0MsVfDRq7j0qyza_ToOf9XWcYe3_h6L7nuqKt-PbAfuRfh81Q38Lpi7JXGXrH75vcsHsUuRHzHViW7uhKQxO82uqZODDd3qV5hl7A&k=183&i=mm_13879175_3211415_14512745 1,1,0,4097 predictor::http://atanx.alicdn.com/t/img/TB1tWvVJFXXXXc_aXXXXXXXXXXX-40-26.png 1,1,0,4097 predictor::http://atanx.alicdn.com/t/img/TB1upAiJXXXXXa5aXXXXXXXXXXX-116-30.png 1,1,0,4097 predictor::http://df.tanx.com/spf3?e=4YAQuHvfNCErhspPa08OgCA0O3b_FXVpod9091x_JC5_Z2Y0F2cm8-2iztlhMnyi3YZ1G28Mq9pASEmtulwZlCnxg22Uz1G5Lcose-CbXAnf4UHPLtgDdBTy2UYBgrnWSR8jfq8U2l0YxLr101e3L1Ns9qRiiIVzPN8cHqR1wD8bEJiz-c6JjA&k=183&i=mm_13879175_3211415_14442475 1,1,0,4097 predictor::http://img.alicdn.com/tfs/TB1HaIwMVXXXXb.XFXXXXXXXXXX-1-26.png 1,1,0,4097 predictor::http://v.behe.com/dsp20/ad/2018/3/8/bffe3de4a6ec77f8ebebaf3ee8d01ee4.jpg 1,0,0,4097 predictor::http://v.behe.com/js/0.js 1,0,0,4097 predictor::http://v.behe.com/js/tc.js 1,0,0,4097 predictor::http://img.alicdn.com/tps/i4/TB1lcLIGXXXXXchXXXX.ZwDGFXX-43-13.gif 1,1,0,4097 predictor::http://cms.tanx.com/t.gif?tanx_nid=29227910&tanx_cm&extendata1=lose 1,1,0,4096 predictor::http://v.behe.com/pub/banner.png 1,0,0,4097 predictor::http://rtb.behe.com/sc 1,0,0,4097 predictor::http://rtb.behe.com/vab?oi=231742&st=t_mm_13879175_3211415_10933089&pn=0&an=1920X1080&pg=http://www.chinadmd.com/theme/K9NU7jf592HfVu8PD8V676sM7Ue796E56Nj6269648lL657LKL83H4J0vF8/ 1,1,0,4097 predictor::https://v.behe.com/dsp20/oemLogo/6879519f2ea0.png 1,0,0,4097   E�
